@@ -1,0 +1,23 @@
+{
+  "name": "picam180",
+  "version": "0.0.1",
+  "description": "Pan and tilt Raspberry Pi camera project template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flashtwo",
+  "license": "GPL",
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "pigpio": "^0.4.0",
+    "router": "^1.1.4"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-print": "^2.0.1"
+  }
+}
